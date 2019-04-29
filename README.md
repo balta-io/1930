@@ -1,7 +1,16 @@
-## 1930 - ANGULARJS PARA DESENVOLVEDORES .NET ##
-Venha conhecer o framework javascript para front-ends que mais cresce no mundo, o Angular JS
+# 1930 - AngularJS para desenvolvedores .NET ##
 
-### Conteúdo Programático ###
+Repositório do curso ao vivo de **AngularJS para desenvolvedores .NET** da plataforma https://balta.io.
+
+Autor: André Baltieri
+
+Link: https://balta.io/cursos/1930
+
+## Projeto construído com: ##
+* JavaScript
+* AngularJS
+
+## Conteúdo Programático ##
 * Bem vindo ao AngularJS
 * Utilizando Controller e $scope
 * Criando sua primeira aplicação
@@ -11,10 +20,8 @@ Venha conhecer o framework javascript para front-ends que mais cresce no mundo, 
 * CRUD
 * Autenticação
 
-### Vídeos ###
-* http://treinamentos.andrebaltieri.net/#/courses/1930
+---
+balta.io - Develop Your Career
 
-### Assine o Site ###
-Faça este e outros treinamentos por apenas R$ 59,90 mensais! Cancele quando quiser e ainda desfrute de treinamentos mensais online, ao vivo e de graça!
+Conheça todos os cursos da plataforma em https://balta.io/cursos
 
-http://assine.andrebaltieri.net/
